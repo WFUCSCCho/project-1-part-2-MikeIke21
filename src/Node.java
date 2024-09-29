@@ -1,3 +1,13 @@
+/*
+@file: Node.java
+@description: This creates a Binary node interface as well as a node class in order to declare a node, set and get its
+left and right values, and check if the node a leaf.
+@author: Michael Iaccarino
+@date: September 26, 2024
+ */
+
+
+
 interface binNode<E>{
     public E value();
     public void setValue(E v);

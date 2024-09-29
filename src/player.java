@@ -1,3 +1,13 @@
+/*
+@file: player.java
+@description: This class creates my player, the data I am sending into my BST. The method contains the
+variables needed for the class, setters, getters a compare to and to string method.
+@author: Michael Iaccarino
+@date: September 26, 2024
+ */
+
+
+
 public class player implements Comparable<player> {
     //declare variables (not all E)
     int overallPick;

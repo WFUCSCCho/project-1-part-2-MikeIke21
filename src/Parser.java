@@ -1,3 +1,13 @@
+/*
+@file: parser.java
+@description: This class has the methods used to parse data from my data set, as well as add it into
+my BST, it also has the filewriter method that outputs the data to our results file.
+@author: Michael Iaccarino
+@date: September 26, 2024
+ */
+
+
+
 import java.io.*;
 import java.util.Collection;
 import java.util.Collections;

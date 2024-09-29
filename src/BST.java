@@ -1,3 +1,11 @@
+/*
+@file: BST.java
+@description: This creates a generic Binary search tree class that uses a node to fill, delete and print our BST
+@author: Michael Iaccarino
+@date: September 26, 2024
+ */
+
+
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 import java.util.Stack;
